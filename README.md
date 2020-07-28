@@ -28,7 +28,7 @@ Finding how much time Stevel Carrell gets on screen in an episode of The Office.
 
 Training SVM on images of Steve Carrell and other celebrities taken from the internet. Images located in data/train/
 
-![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/data/train/Steve_Carrell/Steve_Carell.jpg)
+![alt text](https://github.com/VedantDesai11/celebrityScreenTime/blob/master/data/train/Steve_Carrell/Steve_Carell.jpg?raw=true)
 
 Import any episode of the office based on your choice and run the program. 
 
