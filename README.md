@@ -28,7 +28,10 @@ Finding how much time Stevel Carrell gets on screen in an episode of The Office.
 
 Training SVM on images of Steve Carrell and other celebrities taken from the internet. Images located in data/train/
 
-![alt text](https://github.com/VedantDesai11/celebrityScreenTime/blob/master/data/train/Steve_Carrell/Steve_Carell.jpg?raw=true)
+<img src="https://github.com/VedantDesai11/celebrityScreenTime/blob/master/data/train/Steve_Carrell/Steve_Carell.jpg?raw=true" width="200">
+<img src="https://github.com/VedantDesai11/celebrityScreenTime/blob/master/data/train/Steve_Carrell/maxresdefault.jpg?raw=true" width="200">
+<img src="https://github.com/VedantDesai11/celebrityScreenTime/blob/master/data/train/Steve_Carrell/steve-carell-the-office-1.jpg?raw=true" width="200">
+<img src="https://github.com/VedantDesai11/celebrityScreenTime/blob/master/data/train/Steve_Carrell/steve-carell_sc_768x1024.png?raw=true" width="200">
 
 Import any episode of the office based on your choice and run the program. 
 
@@ -44,7 +47,7 @@ Frames that detected steve carrell:
 
 ![alt text](https://raw.githubusercontent.com/VedantDesai11/celebrityScreenTime/master/Example/Unknown-4.png)
 
-<img src="https://raw.githubusercontent.com/VedantDesai11/celebrityScreenTime/master/Example/Unknown-4.png" width="48">
+<img src="https://raw.githubusercontent.com/VedantDesai11/celebrityScreenTime/master/Example/Unknown-4.png" width="200">
 
 # Final code output: 
 
