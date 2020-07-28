@@ -44,6 +44,10 @@ Frames that detected steve carrell:
 
 ![alt text](https://raw.githubusercontent.com/VedantDesai11/celebrityScreenTime/master/Example/Unknown-4.png)
 
+<img src="https://raw.githubusercontent.com/VedantDesai11/celebrityScreenTime/master/Example/Unknown-4.png" width="48">
+
+# Final code output: 
+
 
 
 
