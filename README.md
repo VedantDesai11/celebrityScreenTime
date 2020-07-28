@@ -28,7 +28,8 @@ Finding how much time Stevel Carrell gets on screen in an episode of The Office.
 
 Training SVM on images of Steve Carrell taken from the internet.
 
-![Steve Carrell](https://octodex.github.com/images/yaktocat.png)
+![Steve Carrell](data/train/Steve Carrell/Michael-Scott-Misquotations-Office-Video.jpg)
+
 
 
 
