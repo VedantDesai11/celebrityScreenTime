@@ -26,10 +26,9 @@ Select the video in which you want to find out how much screen time your celebri
 
 Finding how much time Stevel Carrell gets on screen in an episode of The Office. 
 
-Training SVM on images of Steve Carrell taken from the internet.
+Training SVM on images of Steve Carrell taken from the internet. Images located in data/train/Steve Carrell/
 
-![Steve Carrell](https://octodex.github.com/images/yaktocat.png)
-
+![alt text](https://github.com/VedantDesai11/celebrityScreenTime/data/train/Steve Carrell/Steve_Carell.jpg)
 
 
 
