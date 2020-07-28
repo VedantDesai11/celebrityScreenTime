@@ -35,10 +35,13 @@ Import any episode of the office based on your choice and run the program.
 Output tells you how many minutes Steve Carrell spends on screen.
 
 Frames that detected steve carrell
-![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown.png)
-![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-2.png)
-![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-3.png)
-![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-4.png)
+![alt text](https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown.png)
+
+![alt text](https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-2.png)
+
+![alt text](https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-3.png)
+
+![alt text](https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-4.png)
 
 
 
