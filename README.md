@@ -49,7 +49,11 @@ Frames that detected steve carrell:
 
 <img src="https://raw.githubusercontent.com/VedantDesai11/celebrityScreenTime/master/Example/Unknown-4.png" width="200">
 
-# Final code output: 
+### Final code output run on season 3 episode 2
+
+<img src="https://github.com/VedantDesai11/celebrityScreenTime/blob/master/Example/Output.png?raw=true" width="100%">
+
+
 
 
 
