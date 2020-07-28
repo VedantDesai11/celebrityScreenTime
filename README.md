@@ -24,7 +24,7 @@ Select the video in which you want to find out how much screen time your celebri
 
 ## Example 
 
-Finding how much time Stevel Carrell gets on screen in an episode of The Office. 
+Finding how much time Stevel Carrell gets on screen in an episode of The Office. (Season 03 Episode 02)
 
 Training SVM on images of Steve Carrell and other celebrities taken from the internet. Images located in data/train/
 
@@ -33,6 +33,12 @@ Training SVM on images of Steve Carrell and other celebrities taken from the int
 Import any episode of the office based on your choice and run the program. 
 
 Output tells you how many minutes Steve Carrell spends on screen.
+
+Frames that detected steve carrell
+![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown.png)
+![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-2.png)
+![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-3.png)
+![alt text] (https://github.com/VedantDesai11/celebrityScreenTime/Example/Unknown-4.png)
 
 
 
