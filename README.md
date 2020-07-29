@@ -1,4 +1,5 @@
 # celebrityScreenTime
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dCEMEGwuXlwfWjwBiNwHh8IU37f4OUjo)
 
 Calculate the time a celebrity is on screen for a video by recognizing his face in each frame.
 
